@@ -1,6 +1,6 @@
 # Price Landing Page using React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted [here]( https://lalaavipsha.github.io/Motion-Cut-1/).
 
 ## Available Scripts
 
