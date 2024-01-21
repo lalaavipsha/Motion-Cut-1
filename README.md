@@ -1,6 +1,6 @@
 # Price Landing Page using React.
 
-This project is hosted [here]( https://lalaavipsha.github.io/Motion-Cut-1/).
+This project is hosted [Here]( https://lalaavipsha.github.io/Motion-Cut-1/).
 
 ## Available Scripts
 
